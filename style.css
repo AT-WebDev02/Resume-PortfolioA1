@@ -1,0 +1,40 @@
+* {
+    background-color: azure;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkblue;
+}
+
+/* COLOR VOCAB PROJECT */
+    .color-title {
+        font-weight: normal;
+    }
+
+    .color-square {
+        height: 200px; width: 200px;
+    }
+
+    #red {
+        color: red;
+    }
+
+    #blue {
+        color: blue;
+    }
+
+    #orange {
+        color: orange;
+    }
+
+    #green {
+        color: green;
+    }
+
+    #yellow {
+        color: yellow;
+    }
